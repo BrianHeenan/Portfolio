@@ -1,7 +1,0 @@
-# About this folder
-The scripts in this folder were part of my Full Sail game design final project.  Credits for contributions are in heading of all scripts. Project Avalible upon request.
-
-
-
-## [Project Atlas](Project Atlas)
-This project contains the scripts from Full sail University, Bachelors of Science, Game Designs final project.
